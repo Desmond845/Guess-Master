@@ -203,7 +203,6 @@ function startgame () {
     playagain.style.display = "none";
     heart.style.display = "none";
     okbtn.style.display = "block";
-    console.log(answer);
 }
 function help () {
     heart.style.display = "block";
