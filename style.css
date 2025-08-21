@@ -28,7 +28,7 @@ input {
   font-size: 13px;
   font-weight: bold;
   border-radius: 3px;
-  border: 1px solid black;
+  border: 2px solid black;
   padding: 5px;
   transition: all 200ms ease-in-out;
   will-change: transform;
